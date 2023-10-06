@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 df = pd.read_csv('Local.csv') #carrega os dados
-api_key = '2868bf4953a28e273c2128d10d8da3ed' #key da api Openweather
+api_key = 'Chave_da_api' #key da api Openweather
 
 
 #Capitura os dados da Api
